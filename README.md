@@ -1,4 +1,4 @@
-# Data　Augmentation
+# Data Augmentation
 
 This script rotates and saves images in the directory structure formed like:
 ```
